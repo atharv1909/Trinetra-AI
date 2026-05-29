@@ -1,4 +1,4 @@
-# 👁 Trinetra AI — Phishing Detection System
+# Trinetra AI — Phishing Detection System
 
 > AI/ML-based phishing detection focused on targeted brand impersonation.  
 > Detects when a malicious website is pretending to be a real organization — using three independent analysis layers, a trained ML model, and a real-time Chrome extension.
