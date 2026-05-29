@@ -332,7 +332,7 @@ Each org has a full profile: official domain, known subdomains, brand keywords, 
 
 ---
 
-## 10. Results
+## 10. Testing (Example)
 
 ```
 URL                             Score    Risk Level
