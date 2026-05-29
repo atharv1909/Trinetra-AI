@@ -1,0 +1,6 @@
+{
+  "id": "sbi_phish_1",
+  "url": "http://sbi-secure-login.xyz",
+  "target_org": "sbi",
+  "note": "SBI typosquat phishing domain"
+}

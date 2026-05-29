@@ -1,0 +1,6 @@
+{
+  "id": "microsoft_phish_1",
+  "url": "https://authentication.ms/E.rss8ZATzUT4lXg?/VGhlIG5leHQgZ2VuZXJhdGlvbiBvZiBzZWN1cml0eSBhd2FyZW5lc3MgaXMgZGVzaWduZWQgZm9yIGVtcGxveWVlcyBhbmQgYnVpbHQgZm9yIGVudGVycHJpc2VzLiBPdXIgaW5kdXN0cnktbGVhZGluZyByZXN1bHRzIGFyZSBwb3dlcmVkIGJ5IGNvZ25pdGl2ZSBhdXRvbWF0aW9uLg",
+  "target_org": "microsoft",
+  "note": "Fake Microsoft authentication page"
+}

@@ -1,0 +1,6204 @@
+[
+    {
+        "dns_a": [
+            "151.101.195.1"
+        ],
+        "domain": "paypal.com",
+        "fuzzer": "*original"
+    },
+    {
+        "domain": "paypal0.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypal1.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypal2.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypal3.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypal4.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypal5.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypal6.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypal7.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "103.224.212.205"
+        ],
+        "domain": "paypale.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "104.247.81.99"
+        ],
+        "domain": "paypalo.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypald.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypalk.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "13.248.213.45"
+        ],
+        "domain": "paypalg.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "156.226.71.171"
+        ],
+        "domain": "paypalb.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "160.251.64.80"
+        ],
+        "domain": "paypal8.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "180.97.183.92"
+        ],
+        "domain": "paypal9.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "23.105.175.15"
+        ],
+        "domain": "paypalc.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "3.33.130.190"
+        ],
+        "domain": "paypala.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalf.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalh.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "paypali.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalj.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "domain": "paypall.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "45.77.75.133"
+        ],
+        "domain": "paypalp.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "52.20.84.62"
+        ],
+        "domain": "paypalm.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypaln.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalq.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalr.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalu.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypalv.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalw.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "domain": "paypaly.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "paypalt.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "paypals.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "paypalx.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paypalz.com",
+        "fuzzer": "addition"
+    },
+    {
+        "domain": "paqpal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "104.21.21.182"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3032::6815:15b6"
+        ],
+        "domain": "paypcl.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "104.247.81.99"
+        ],
+        "domain": "paxpal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "payqal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "148.72.171.195"
+        ],
+        "domain": "pay0al.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "172.67.144.126"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3033::6815:4770"
+        ],
+        "domain": "qaypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "172.98.192.99"
+        ],
+        "domain": "paypql.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "212.32.254.59"
+        ],
+        "domain": "paytal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "212.7.194.67"
+        ],
+        "domain": "peypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "212.92.105.233"
+        ],
+        "domain": "paypel.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "3.33.130.190"
+        ],
+        "domain": "taypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "domain": "paipal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "3.33.251.168"
+        ],
+        "domain": "paypam.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "34.211.79.181"
+        ],
+        "domain": "paypad.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "44.195.229.203"
+        ],
+        "domain": "paypah.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "paypan.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "payral.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "payxal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "pa9pal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "domain": "pcypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "64.176.195.8"
+        ],
+        "domain": "pqypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "paypil.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "piypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "raypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "92.204.242.158"
+        ],
+        "domain": "0aypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "domain": "xaypal.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "185.199.108.153"
+        ],
+        "domain": "xn--80aa0cbo65f.com",
+        "fuzzer": "cyrillic"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypa1.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "paypai.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-4gb53h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-4gb5g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-4gb7255b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-4gb76f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-4gb91l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-4gb9316b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-4gb9916b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-5ra02h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-5ra4816b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-5ra67i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-5ra6916b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-9f5a59b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-9f5ap7b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-9f5atp.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-bjb6805b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-bjb8905b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-bjb8d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-g1b4234b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-g1b6334b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-g5b6514b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-g5b8614b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-gsa2716b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-gsa46i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-gsa4816b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-gsa80h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-kg5a3o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-kg5at9b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-kg5az6b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-l9a2545b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-l9a44b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-l9a4645b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-l9a8y.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-lfc2773b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-lfc4873b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-ukb11e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-ukb1735b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-ukb3406b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-ukb36j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-ukb3895b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--apal-ukb97f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-4gb0815b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-4gb2915b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-4gb2n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-4gbc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-6gb5715b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-6gb7815b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-6gb7m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-9f5ac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-9f5aoa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-cg5aj.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-kg5ac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-ukb4205b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-ukb6305b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-ukbc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-wkb1305b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ayal-wkb9105b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-31a30d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-31a7675b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-31a95e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-31a9775b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-4gb60j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-80a3085b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-80a5185b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-80a59e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-80a93d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-j1a1975b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-j1a3085b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-j1a38e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-j1a72d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-j9b5893b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-j9b7993b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-ukb05h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-y0a15d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-y0a5185b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-y0a70f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa-y0a7285b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa1-ho1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa1-ipb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa1-to1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypa1-ytb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypai-ho1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypai-ipb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypai-to1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypai-ytb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--aypal-ho1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--aypal-ipb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--aypal-to1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--aypal-ytb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2mb0494b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2mb8294b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2na29i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2na6536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2na84k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2na8636b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2sa28g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2sa6416b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2sa83i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-2sa8516b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-4gb3w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-4gb7365b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-4gb79e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-4gb79h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-4gb94h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-7na0536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-7na24k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-7na2636b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-7na68i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-9f5atu.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-doa08i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-doa4436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-doa63k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-doa6536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-dta07g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-dta4316b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-dta62i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-dta6416b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ioa03k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ioa0536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ioa47i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ioa8336b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-kg5a3t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-noa2336b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-noa42k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-noa4436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-noa86i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-s5b2414b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-s5b4514b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-soa26i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-soa6236b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-soa81k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-soa8336b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ssa05i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ssa0716b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ssa49g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ssa8516b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-szb4934b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-szb6044b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ukb14d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ukb14g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ukb1845b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ukb39f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-ukb7g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-x6b4904b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--aypl-x6b6014b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6gb33h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6gb3g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6gb5255b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6gb56f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6gb71l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6gb7316b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6gb7916b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6ra22h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6ra6816b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6ra87i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-6ra8916b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-cg5a39b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-cg5a96b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-cg5arp.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-cjb0015b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-cjb0e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-cjb8805b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-h1b6234b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-h1b8334b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-h5b0714b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-h5b8514b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-hsa01h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-hsa4716b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-hsa66i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-hsa6816b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-m9a0z.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-m9a4545b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-m9a64b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-m9a6645b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-mfc4773b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-mfc6873b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-mg5a1o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-mg5ar9b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-mg5ax6b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-wkb1406b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-wkb16j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-wkb1895b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-wkb77f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-wkb90e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paal-wkb9635b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a52n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a59d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a7116b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a75l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a90r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a9276b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a92a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-31a9876b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-6ra03b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-6ra21t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-6ra28a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-6ra49a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-6ra60b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a13e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a16n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a3516b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a39l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a5286b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a54r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a5676b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-80a56a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-cjb41i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-h1b25a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-h5b4o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-hsa00t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-hsa07a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-hsa28a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-hsa49a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-hsa81b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a1416b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a18l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a3186b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a33r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a3576b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a35a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a91e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j1a94n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j9b5334b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j9b7005b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j9b7494b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-j9b7s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-m9a08l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a34e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a37n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a50m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a5616b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a7386b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a75r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a7776b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa-y0a77a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papa1-3va.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-4rb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-hy1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-ohb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-oi2b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-ouc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-pjc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-rva.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-wec.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papa1-yg2b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-3va.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-4rb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-hy1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-ohb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-oi2b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-ouc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-pjc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-rva.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-wec.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papai-yg2b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papal-3va.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papal-4rb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papal-hy1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papal-ohb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papal-oi2b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papal-ouc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papal-pjc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papal-rva.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papal-wec.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papal-yg2b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2mb0595b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2mb07i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2mb0985b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2mb68e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2mb81d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2mb8725b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na41t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na48j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na6076b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na64r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na6o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na8137b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na81g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na8737b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2na89w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na2137b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa27j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta26h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa84p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ssa1616b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-x6b9014b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3na48u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "107.170.208.152"
+        ],
+        "domain": "xn--paypa-8nc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papl-2na8p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa40r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa47h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa63p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa6946b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa8017b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa80e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa8617b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-2sa88u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6ra1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6ra30p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6ra30s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6ra3466b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6ra3c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6ra55r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6ra96j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-6raz.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na0076b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na04r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na0o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na21g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na2737b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na29w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na2p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na80t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7na87j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7q5a8y.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-7q5asw.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-cjb1n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-cjb50e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-cjb50h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-cjb5455b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-cjb75g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa20t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa43r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa4966b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa4n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa6037b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa60g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa6637b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-doa68w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--papl-doa6o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta29q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta42p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta4846b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta6517b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta67u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta6907b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-dta69d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-h1b3874b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-h1b3u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-h1b5p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-h5b5164b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-h5b5d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-h5bn.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsa1366b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsa19o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsa19r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsa1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsa34r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsa75j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsan.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-hsaz.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa0037b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa00g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa0637b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa08w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa0o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa66j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa69s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa82r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa8866b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ioa8m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-m9a1195b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-m9a17h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-m9a17k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-m9a32k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-m9a73c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-mfc1324b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-mo5ave.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa06j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa09s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa22r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa2866b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa2m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa4537b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa47w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa4927b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa49f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-noa4n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-s5b2944b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-s5b4015b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-s5b4615b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-s5b48a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa45j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa48s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa61r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa6766b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa6l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa8437b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa86w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa8827b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa88f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-soa8m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa00v.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa0217b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa02e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa0817b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa61r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa68h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-ssa8056b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-szb2v.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-szb4474b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-szb4e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-szb6145b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-szb63d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-szb6535b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-x6b4444b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-x6b6115b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-x6b63a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--papl-x6b6505b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-31a0775b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-31a26e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-31a2875b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-31a60d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-7gb30j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-80a24d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-80a6085b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-80a8185b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-80a89e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-j1a03d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-j1a4975b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-j1a6085b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-j1a68e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-j9b0004b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-j9b8893b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-xkb74h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-y0a01f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-y0a0385b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-y0a45d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya-y0a8185b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya1-1tb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya1-ko1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya1-lpb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paya1-wo1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payai-1tb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payai-ko1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payai-lpb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payai-wo1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payal-1tb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payal-ko1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payal-lpb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payal-wo1b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2mb1394b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2mb3494b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2na15k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2na1736b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2na59i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2na9536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2sa14i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2sa1616b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2sa58g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-2sa9416b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7gb0w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7gb4365b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7gb49e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7gb49h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7gb64h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7na3536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7na54k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7na5636b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-7na98i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-dg5aqu.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-doa38i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-doa7436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-doa93k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-doa9536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-dta37g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-dta7316b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-dta92i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-dta9416b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ioa1436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ioa33k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ioa3536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ioa77i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ng5a0t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-noa17i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-noa5336b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-noa72k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-noa7436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-s5b5414b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-s5b7514b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-soa12k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-soa1436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-soa56i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-soa9236b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ssa35i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ssa3716b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-ssa79g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-szb7934b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-szb9044b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-x6b7904b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-xkb09f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-xkb4g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-xkb83d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-xkb83g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payl-xkb8745b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-31a35f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-31a7226b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-31a78k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-31a78n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-31a93n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3mb65g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3na20d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3na45c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3na66c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3na87c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3sa29a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3sa44a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3sa47s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3sa65a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-3sa86a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-80a32l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-80a32o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-80a3626b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-80a57n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-80a98f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-8na06c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-8na27c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-8na69c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-8na84c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-8na87u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eoa09c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eoa24c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eoa27u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eoa45c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eoa66c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eta08a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eta23a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eta26s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eta44a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-eta65a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-j1a11l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-j1a11o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-j1a1526b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-j1a36n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-j1a77f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-j9b5444b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-joa06c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-joa48c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-joa63c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-joa66u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-joa84c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-ooa03c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-ooa06u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-ooa24c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-ooa45c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-ooa87c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-t5b0n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-toa27c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-toa42c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-toa45u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-toa63c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-toa84c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-tsa08a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-tsa40b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-tsa65a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-tsa68s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-tsa86a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-tzb22b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-y0a10g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-y0a53l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-y0a53o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-y0a5726b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-y0a78n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp-y6b2i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-gta.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-i81b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "xn--paypa-o7a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payp1-0qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-3jc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payp1-6qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-6wa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payp1-dra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-hlc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-iwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payp1-jra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-m11b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-nwb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-pra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--payp1-uqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-uwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--payp1-wcc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-0wb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-23a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-2nc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-3sa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-46b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-9sa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypa-b6a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-e3a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-f4a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-foc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypa-loc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypa-n6a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-q3a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypa-r4a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-u81b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypa-xsa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypa-z6a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-0qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-3jc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-6qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-6wa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-dra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-hlc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-iwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-jra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-m11b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-nwb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-pra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-uqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-uwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypi-wcc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypl-3jc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypl-6wa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "xn--paypl-pra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-0qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-6qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-dra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--paypl-hlc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-iwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-jra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-m11b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-nwb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-uqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-uwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--paypl-wcc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0mb02d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0mb0825b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0mb2595b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0mb27i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0mb2985b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0mb88e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na00x.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na0237b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na02g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na0837b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--ppal-0na0q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na61t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na68j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na8076b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na84r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0na8o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa0117b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa01e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa0717b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa09u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa60r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa67h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa83p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-0sa8946b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na01t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na08j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na2076b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na24r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na2o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na4137b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na41g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na4737b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na49w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5na4p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5q5aoz.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5q5auw.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5ra10p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5ra10s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5ra1466b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5ra1c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5ra35r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5ra76j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5ra9a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-5rax.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bjb30e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bjb30h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bjb3455b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bjb55g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bjb9m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa40t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa47j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa63r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa6966b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa6n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa8037b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa80g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa8637b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-boa88w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--ppal-boa8o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta46h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta49q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta62p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta6846b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta8517b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta87u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta8907b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-bta89d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-g1b1874b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-g1b1u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-g1b3p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-g5b3164b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-g5b3d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-g5bl.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa03r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa0966b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa0n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa2037b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa20g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa2637b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa28w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa2o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa86j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-goa89s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsa14r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsa55j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsa9266b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsa98o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsa98r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsa9a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsal.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-gsax.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-l9a12k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-l9a53c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-l9a9095b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-l9a96h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-l9a96k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-lfc9224b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-lo5ate.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa26j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa29s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa42r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa4866b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa4m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa6537b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa67w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa6927b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa69f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-loa6n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-q5b4944b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-q5b6015b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-q5b6615b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-q5b68a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa0537b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa07w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa0927b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa09f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa0n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa65j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa68s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa81r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa8766b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qoa8l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa0156b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa05p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa20v.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa2217b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa22e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa2817b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa81r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qsa88h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qzb4v.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qzb6474b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qzb6e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qzb8145b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qzb83d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-qzb8535b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-v6b6444b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-v6b8115b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-v6b83a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ppal-v6b8505b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0mb3394b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0mb5494b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0na1636b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0na35k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0na3736b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0na79i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0sa1516b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0sa34i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0sa3616b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-0sa78g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-5na19i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-5na5536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-5na74k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-5na7636b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-6gb2365b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-6gb29e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-6gb29h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-6gb44h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-6gb8v.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-boa14k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-boa1636b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-boa58i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-boa9436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-bta13i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-bta1516b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-bta57g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-bta9316b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-cg5aou.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-goa3436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-goa53k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-goa5536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-goa97i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-loa37i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-loa7336b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-loa92k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-loa9436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-mg5ayt.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-q5b7414b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-q5b9514b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qoa1336b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qoa32k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qoa3436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qoa76i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qsa3616b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qsa55i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qsa5716b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qsa99g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qzb1144b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-qzb9934b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-v6b1114b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-v6b9904b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-wkb2g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-wkb63d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-wkb63g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-wkb6745b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pyal-wkb88f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0mb95g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0na18c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0na50d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0na75c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0na78u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0na96c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0sa17a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0sa59a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0sa74a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0sa77s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-0sa95a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-31a05f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-31a4226b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-31a48k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-31a48n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-31a63n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-5na15c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-5na18u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-5na36c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-5na57c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-5na99c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-80a02l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-80a02o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-80a0626b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-80a27n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-80a68f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-boa39c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-boa54c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-boa57u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-boa75c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-boa96c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-bta38a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-bta53a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-bta56s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypa-bta74a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-bta95a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-goa15c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-goa36c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-goa78c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-goa93c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-goa96u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-j1a06n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-j1a47f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-j1a80l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-j1a80o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-j1a8426b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-j9b2444b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-loa18c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-loa33c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-loa36u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-loa54c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-loa75c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-q5b3n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qoa15c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qoa57c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qoa72c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qoa75u.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qoa93c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qsa17a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qsa38a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qsa70b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qsa95a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qsa98s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-qzb52b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-v6b5i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-y0a23l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-y0a23o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-y0a2726b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-y0a48n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa-y0a89f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-0jc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypa1-3qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-3wa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypa1-9qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-elc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-fwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypa1-gra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-j11b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-kwb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-mra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypa1-rqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-rwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypa1-tcc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypa1-xqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-0jc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-3qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-3wa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-9qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-elc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-fwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-gra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-j11b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-kwb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-mra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-rqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-rwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-tcc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypai-xqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-0jc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-3qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-3wa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypal-9qa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypal-elc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypal-fwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-gra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypal-j11b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-kwb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-mra.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-rqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-rwa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-tcc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypal-xqa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0mb05c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0mb05f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0mb0935b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0mb20f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0mbc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na03t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na0a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na44l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na4r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na6a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na6s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na8186b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na87q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na87t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0na8t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-0nac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-0nai.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-0nao.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-0nau.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0sa02r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0sa43j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0sa8066b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0sa86o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0sa86r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0sac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-0sao.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2mb54c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2mb54f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2mb5835b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2mb79e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na1a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na1s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na3186b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na37q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na37t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na3t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na52t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na93l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2na9q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-2nad.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-2naj.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-2nap.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2nav.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2sa3066b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2sa36o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2sa36r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2sa51r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2sa92j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-2saj.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-5na0a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na0s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na2186b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na27q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na27t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na2t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na42t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na83l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5na8q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-5nac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-5nai.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-5nao.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5nau.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-5q5ac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na33l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na3q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na5r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na7086b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na76q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na76t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na7s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7na91t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-7nad.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-7naj.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7nap.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-7nav.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boa23l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "xn--pypl-boa2q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boa4r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boa6086b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boa66q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boa66t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boa6s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boa81t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-boac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-boai.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boao.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-boau.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-bta22j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-bta65o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-bta65r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-bta6956b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-bta80r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-btac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa1086b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa16q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa16t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa1s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa31t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa72l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa7p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doa9q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-doad.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doaj.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-doap.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-dta15o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-dta15r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-dta1956b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-dta30r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-dta71j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa0086b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa06q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa06t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa0s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa21t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa62l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa6p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goa8q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-goac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goai.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-goao.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa12l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa1p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa3q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa55q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa55t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa5976b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa5r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioa70t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioad.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ioaj.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa02l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa0p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa2q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa45q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa45t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa4976b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa4r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loa60t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-loac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-loai.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa10t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa51l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa5o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa7p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa94q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa94t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa9876b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noa9q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-noad.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-q5b4064b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-q5b4c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-q5bc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa00t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa41l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa4o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa6p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa84q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa84t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa8876b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoa8q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qoac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsa0266b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsa08o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsa08r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsa0a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsa23r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsa64j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qsao.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qzb61a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qzb6584b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qzb8w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-qzbc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-s5b9954b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-s5b9b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-soa1p.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-soa34q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-soa34t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-soa3876b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-soa3q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-soa59s.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-soa90l.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "xn--pypl-soa9n.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ssa14j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ssa5166b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ssa57o.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ssa57r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ssa72r.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ssaj.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-ssav.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-szb11a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-szb1584b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-szb3w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-v6b6554b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-v6bc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--pypl-x6b1554b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4gb0w.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4gb4365b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4gb49e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4gb49h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4gb64h.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4na3536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4na54k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4na5636b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-4na98i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9f5aqu.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9na38i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9na7436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9na93k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9na9536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9sa37g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9sa7316b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9sa92i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-9sa9416b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-foa1436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-foa33k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-foa3536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-foa77i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-kg5a0t.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-koa17i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-koa5336b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-koa72k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-koa7436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-p5b5414b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-p5b7514b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-poa12k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-poa1436b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-poa56i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-poa9236b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-psa1616b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-psa35i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-psa3716b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-psa79g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-pzb7934b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-pzb9044b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-u6b7904b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-u6b9014b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-ukb09f.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-ukb4g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-ukb83d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-ukb83g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-ukb8745b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zmb1394b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zmb3494b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zna15k.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zna1736b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zna59i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zna9536b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zsa14i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zsa1616b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zsa58g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "xn--ypal-zsa9416b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "domain": "pa-ypal.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "domain": "payp-al.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "p-aypal.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_a": [
+            "216.21.239.197"
+        ],
+        "domain": "pay-pal.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "domain": "paypa-l.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "domain": "0paypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "mpaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "opaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "p1aypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "p2aypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pa1ypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pa2ypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pa6ypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pa7ypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "payplal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "domain": "pasypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.203"
+        ],
+        "domain": "pagypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.206"
+        ],
+        "domain": "pawypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "104.247.81.99"
+        ],
+        "domain": "p0aypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pay0pal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "domain": "paytpal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.202"
+        ],
+        "domain": "paygpal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.205"
+        ],
+        "domain": "pauypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "pay6pal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypwal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "pwaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "172.104.203.186"
+        ],
+        "dns_aaaa": [
+            "2a01:7e01::f03c:95ff:feeb:9d4b"
+        ],
+        "domain": "payapal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "212.92.105.227"
+        ],
+        "domain": "payopal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "216.245.213.75"
+        ],
+        "domain": "pahypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "domain": "paaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "paxypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "payp1al.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "66.81.203.198"
+        ],
+        "domain": "paypa1l.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "paypmal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.200"
+        ],
+        "domain": "paypsal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "paypyal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pazypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "playpal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pmaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.201"
+        ],
+        "domain": "psaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.202"
+        ],
+        "domain": "patypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.205"
+        ],
+        "domain": "payhpal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.207"
+        ],
+        "domain": "pzaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypawl.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "paypzal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "212.92.105.235"
+        ],
+        "domain": "paqypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "pay7pal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.202"
+        ],
+        "domain": "payp0al.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "payp2al.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "paypa2l.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.212.206"
+        ],
+        "domain": "paypqal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "104.143.9.211"
+        ],
+        "domain": "payxpal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "13.223.25.84"
+        ],
+        "dns_aaaa": [
+            "2600:1f18:4ae:c605:dd5d:b838:5816:d7fb"
+        ],
+        "domain": "payspal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "172.104.203.186"
+        ],
+        "dns_aaaa": [
+            "2a01:7e01::f03c:95ff:fe91:5d91"
+        ],
+        "domain": "paypasl.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "172.232.6.52"
+        ],
+        "domain": "payupal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "172.237.146.46"
+        ],
+        "domain": "paylpal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "172.239.194.227"
+        ],
+        "domain": "pyaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "208.91.196.152"
+        ],
+        "domain": "poaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "212.92.104.6"
+        ],
+        "domain": "lpaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "paympal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "domain": "payypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "38.58.182.89"
+        ],
+        "domain": "paypaql.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "domain": "paypoal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "92.204.242.158"
+        ],
+        "domain": "paypayl.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "domain": "paypazl.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "77.247.182.245"
+        ],
+        "domain": "pqaypal.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "aypal.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "185.53.179.146"
+        ],
+        "domain": "paypa.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "199.191.50.130"
+        ],
+        "domain": "pypal.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "209.141.38.71"
+        ],
+        "domain": "paypl.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "35.80.239.145"
+        ],
+        "dns_aaaa": [
+            "2600:1f14:ea2:fa01:ee07:9530:c797:689e"
+        ],
+        "domain": "papal.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "66.81.203.201"
+        ],
+        "domain": "payal.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "domain": "payppal.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "domain": "ppaypal.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "paypaal.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "170.9.240.198"
+        ],
+        "domain": "laypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "38.58.182.93"
+        ],
+        "domain": "oaypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "domain": "p1ypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "domain": "p2ypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "patpal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "52.33.207.7"
+        ],
+        "domain": "pa7pal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "domain": "payp1l.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "domain": "payp2l.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.182.241"
+        ],
+        "domain": "paypak.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "pyypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "13.248.213.45"
+        ],
+        "domain": "pa6pal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "143.198.68.197"
+        ],
+        "domain": "paypap.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "170.33.12.185"
+        ],
+        "domain": "maypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "172.98.192.102"
+        ],
+        "domain": "paypzl.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "172.98.192.102"
+        ],
+        "domain": "pwypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "172.98.192.99"
+        ],
+        "domain": "paylal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "173.234.157.138"
+        ],
+        "domain": "paypao.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "198.54.117.242"
+        ],
+        "domain": "paypyl.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "212.92.105.233"
+        ],
+        "domain": "payoal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "37.48.77.79"
+        ],
+        "domain": "paypwl.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "5.39.216.237"
+        ],
+        "domain": "paupal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "domain": "paypsl.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "domain": "pzypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "75.126.101.239"
+        ],
+        "domain": "psypal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "76.223.54.146"
+        ],
+        "domain": "pagpal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "77.247.182.246"
+        ],
+        "domain": "paapal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "77.42.37.92"
+        ],
+        "domain": "paspal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "91.195.240.101"
+        ],
+        "domain": "paymal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "99.83.176.46"
+        ],
+        "domain": "pahpal.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.212.202"
+        ],
+        "domain": "p.aypal.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "domain": "pa.ypal.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "dns_a": [
+            "104.21.78.52"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3037::ac43:d8f2"
+        ],
+        "domain": "pay.pal.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "domain": "payp.al.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "dns_a": [
+            "104.21.83.78"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3033::ac43:d98d"
+        ],
+        "domain": "paypla.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "208.115.249.236"
+        ],
+        "domain": "papyal.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "domain": "pyapal.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "69.162.80.60"
+        ],
+        "domain": "apypal.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "74.63.219.252"
+        ],
+        "domain": "payapl.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "domain": "paypalcom.com",
+        "fuzzer": "various"
+    },
+    {
+        "dns_a": [
+            "103.224.182.245"
+        ],
+        "domain": "paypol.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "125.21.240.67"
+        ],
+        "dns_aaaa": [
+            "2404:a800:ff00:1::203d"
+        ],
+        "domain": "puypal.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "5.22.145.121"
+        ],
+        "dns_aaaa": [
+            "2a00:18e0:5:3:dfe2:c743:85aa:61bc"
+        ],
+        "domain": "poypal.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "78.41.207.19"
+        ],
+        "domain": "paypul.com",
+        "fuzzer": "vowel-swap"
+    }
+]

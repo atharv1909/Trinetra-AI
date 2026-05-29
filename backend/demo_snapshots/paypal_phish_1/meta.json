@@ -1,0 +1,6 @@
+{
+  "id": "paypal_phish_1",
+  "url": "https://yolo-shop.github.io/Paypal-",
+  "target_org": "paypal",
+  "note": "PayPal phishing clone"
+}

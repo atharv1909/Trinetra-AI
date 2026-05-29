@@ -1,0 +1,66 @@
+{
+  "sbi": {
+    "display_name": "State Bank of India",
+    "official_domain": "sbi.co.in",
+    "official_subdomains": [
+      "www.sbi.co.in",
+      "retail.onlinesbi.sbi",
+      "corp.onlinesbi.sbi",
+      "onlinesbi.sbi"
+    ],
+    "brand_keywords": ["sbi", "onlinesbi", "statebank", "statebankofindia"],
+    "typosquat_file": "sbi.json",
+    "login_url": "https://retail.onlinesbi.sbi/retail/login.htm"
+  },
+  "microsoft": {
+    "display_name": "Microsoft",
+    "official_domain": "microsoft.com",
+    "official_subdomains": [
+      "login.microsoftonline.com",
+      "account.microsoft.com",
+      "www.microsoft.com"
+    ],
+    "brand_keywords": ["microsoft", "microsoftonline", "msoffice", "outlook", "azure"],
+    "typosquat_file": "microsoft.json",
+    "login_url": "https://login.microsoftonline.com"
+  },
+  "google": {
+    "display_name": "Google",
+    "official_domain": "google.com",
+    "official_subdomains": [
+      "accounts.google.com",
+      "myaccount.google.com",
+      "www.google.com"
+    ],
+    "brand_keywords": ["google", "gmail", "googleaccount"],
+    "typosquat_file": "google.json",
+    "login_url": "https://accounts.google.com"
+  },
+  "paypal": {
+    "display_name": "PayPal",
+    "official_domain": "paypal.com",
+    "official_subdomains": [
+      "www.paypal.com",
+      "checkout.paypal.com"
+    ],
+    "brand_keywords": ["paypal", "paypalcredit"],
+    "typosquat_file": "paypal.json",
+    "login_url": "https://www.paypal.com/signin"
+  },
+  "hdfc": {
+    "display_name": "HDFC Bank",
+    "official_domain": "hdfcbank.com",
+    "official_subdomains": ["netbanking.hdfcbank.com", "www.hdfcbank.com"],
+    "brand_keywords": ["hdfc", "hdfcbank", "hdfcnetbanking"],
+    "typosquat_file": "hdfc.json",
+    "login_url": "https://netbanking.hdfcbank.com/netbanking/"
+  },
+  "icici": {
+    "display_name": "ICICI Bank",
+    "official_domain": "icicibank.com",
+    "official_subdomains": ["infinity.icicibank.com", "www.icicibank.com"],
+    "brand_keywords": ["icici", "icicibank", "icicidirect"],
+    "typosquat_file": "icici.json",
+    "login_url": "https://infinity.icicibank.com"
+  }
+}

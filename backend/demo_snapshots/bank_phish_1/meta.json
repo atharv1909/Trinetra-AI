@@ -1,0 +1,6 @@
+{
+  "id": "bank_phish_1",
+  "url": "https://chase.pcj-group.com/login",
+  "target_org": "hdfc",
+  "note": "Bank login credential harvester"
+}
