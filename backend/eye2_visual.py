@@ -1,3 +1,4 @@
+#this visual works locally cause render just provides 512 ram in its free tier and chromium needs almost 400-500 to just load
 import asyncio
 import hashlib
 from pathlib import Path
