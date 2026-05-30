@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+backend/trinetra.db
+backend/demo_snapshots/
+.DS_Store
+*.log
