@@ -3,10 +3,8 @@ services:
     name: trinetra-ai
     runtime: python
     rootDir: backend
-    buildCommand: pip install -r ../requirements.txt --no-deps xgboost && pip install -r ../requirements.txt
+    buildCommand: pip install -r ../requirements-deploy.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
-      - key: PIP_NO_CACHE_DIR
-        value: "1"
