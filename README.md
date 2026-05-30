@@ -3,6 +3,12 @@
 > Three-layer AI system that detects when a website is impersonating a real organization.  
 > Combines URL analysis, visual clone detection, and behavioral analysis into one risk score — with a real-time Chrome extension.
 
+**Live API:** https://trinetra-ai-hhl2.onrender.com  
+**API Docs:** https://trinetra-ai-hhl2.onrender.com/docs  
+**GitHub:** https://github.com/atharv1909/Trinetra-AI
+
+> **Note on free deployment:** Eye 2 (visual screenshot comparison) requires Playwright + Chromium (~400MB RAM). The free tier on Render only provides 512MB total, which is not enough to run Chromium alongside the ML model. Eye 2 is therefore disabled on the hosted version — visual_score defaults to 0.5 (unknown). Eye 1 (URL intelligence), Eye 3 (behavioral analysis), and the ML model all run fully on the live deployment. To use Eye 2, run the backend locally.
+
 ---
 
 ## What Problem Does This Solve
@@ -35,7 +41,7 @@ Three engines analyze it simultaneously
         ↓
    Result returned immediately
         ↓
-      Eye 2 (async background)
+      Eye 2 (async background — local only)
    Screenshot + Visual Compare
           ~3-5s
    Updates result when done
@@ -49,6 +55,20 @@ Chrome extension badge + popup + notification
 
 Eye 1, Eye 3, and the ML model run synchronously and return a result in under 2 seconds.  
 Eye 2 runs in the background and updates the scan when done — you never wait for the screenshot.
+
+---
+
+## Deployment vs Local
+
+| Feature | Hosted (Render free) | Local |
+|---|---|---|
+| Eye 1 — URL Intelligence | ✅ Full | ✅ Full |
+| Eye 2 — Visual Fingerprint | ❌ Disabled (RAM limit) | ✅ Full |
+| Eye 3 — Behavioral Analysis | ✅ Full | ✅ Full |
+| ML Model (XGBoost) | ✅ Full | ✅ Full |
+| Chrome Extension | ✅ Works with live API | ✅ Works with local API |
+
+Eye 2 requires Playwright + Chromium which needs ~400MB RAM. Render free tier provides 512MB total — not enough when combined with XGBoost, SHAP, numpy, and scipy. The system detects whether it is running on Render via the `RENDER` environment variable and automatically disables Eye 2. All other layers run at full capacity on the hosted version.
 
 ---
 
@@ -100,7 +120,7 @@ For each target organization we pre-built a brand profile containing the officia
 
 ### Eye 2 — Visual Fingerprint
 
-**File:** `backend/eye2_visual.py` | **Speed:** 3-5 seconds (async background)
+**File:** `backend/eye2_visual.py` | **Speed:** 3-5 seconds (async background) | **Local only**
 
 Takes a screenshot of the suspicious page and compares it visually to the real organization's login page using perceptual hashing.
 
@@ -123,6 +143,9 @@ If the page times out or fails to load, `visual_score = 0.5` (unknown) — the s
 **Bonus signal:** Lazy phishing cloners often steal the real org's favicon directly from the official server. The page is `sbi-phish.xyz` but the favicon loads from `sbi.co.in`. This is detected separately.
 
 **Official domain bypass:** If the submitted URL is the actual official domain of the target organization, visual comparison is skipped. Without this, scanning `accounts.google.com` would score HIGH because it genuinely looks identical to our stored Google fingerprint.
+
+**Why Eye 2 is disabled on the hosted version:**  
+Playwright requires Chromium to be installed (~300MB). On Render's free tier (512MB total RAM), this leaves insufficient memory for the ML model and other dependencies running simultaneously. The system automatically detects the `RENDER` environment variable and sets `visual_score = 0.5` (unknown) instead of crashing. All other layers run at full capacity. To use Eye 2, clone the repo and run locally.
 
 ---
 
@@ -202,7 +225,7 @@ Each layer catches different attack patterns:
 - **Behavioral (20%)** — catches credential harvesters regardless of appearance
 - **Blocklist (15%)** — instant flag if domain appears in local PhishTank/OpenPhish copy
 
-**Override rules:** If visual similarity exceeds 80%, the final score is floored at 0.70 — a page that looks visually identical to a bank login is dangerous regardless of what the URL looks like.
+**Override rules:** If visual similarity exceeds 80%, the final score is floored at 0.70 — a page that looks visually identical to a bank login is dangerous regardless of what the URL looks like. This override only applies when running locally with Eye 2 enabled.
 
 ### Risk Levels
 
@@ -219,9 +242,12 @@ Each layer catches different attack patterns:
 
 **File:** `backend/main.py` | **Framework:** FastAPI
 
+**Live:** https://trinetra-ai-hhl2.onrender.com  
+**Docs:** https://trinetra-ai-hhl2.onrender.com/docs
+
 | Method | Endpoint | Description |
 |---|---|---|
-| `POST` | `/scan` | Full scan. Eye 1 + Eye 3 + ML run sync. Eye 2 runs async. Returns immediately with `visual_pending: true` |
+| `POST` | `/scan` | Full scan. Eye 1 + Eye 3 + ML run sync. Eye 2 runs async (local only). Returns immediately with `visual_pending: true` |
 | `GET` | `/scan/{scan_id}` | Poll for completed result including visual score |
 | `GET` | `/orgs` | List available target organizations |
 | `GET` | `/history` | Recent scan history (last 50) |
@@ -274,6 +300,8 @@ The extension is intentionally lightweight — all intelligence lives in the bac
 | `background.js` | Receives the URL, POSTs to `/scan`, caches result in `chrome.storage.local` by tab ID |
 | `popup.html/js` | On icon click, reads stored result and renders score circle, eye cards, and signal flags |
 
+The extension points to the live Render deployment by default — no local backend needed.
+
 **What you see:**
 
 - Badge `!` on red background — HIGH risk
@@ -304,10 +332,12 @@ Each organization has: official domain, known subdomains, brand keywords, pre-ge
 | URL | Target Org | Final Score | Risk Level | Key Signals |
 |---|---|---|---|---|
 | `accounts.google.com/signin` | google | 0.2113 | LOW | Official domain — correctly identified safe |
-| `yolo-shop.github.io/Paypal-` | paypal | 0.7000 | HIGH | 81.25% visual similarity to PayPal login page |
+| `yolo-shop.github.io/Paypal-` | paypal | 0.7000 | HIGH | 81.25% visual similarity to PayPal login page (local) |
 | `rnicrosoft.com` | microsoft | 0.4853 | MEDIUM | Typosquat detected — rn→m substitution |
 | `sbi-secure-login.xyz` | sbi | 0.4965 | MEDIUM | Suspicious TLD + brand keyword in domain |
 | `login.microsoftonline.com` | microsoft | 0.3089 | LOW | Official domain — correctly identified safe |
+
+Note: PayPal HIGH score was recorded locally with Eye 2 active. On the hosted version the same URL scores LOW because visual comparison is disabled — Eye 1 and Eye 3 see nothing suspicious in the URL structure itself.
 
 ---
 
@@ -318,7 +348,7 @@ Each organization has: official domain, known subdomains, brand keywords, pre-ge
 - Python 3.10 or higher
 - Google Chrome
 
-### Backend Setup
+### Local Setup (full features including Eye 2)
 
 ```bash
 # clone the repo
@@ -330,10 +360,10 @@ python -m venv venv
 venv\Scripts\activate        # Windows
 source venv/bin/activate     # Mac/Linux
 
-# install dependencies
+# install all dependencies
 pip install -r requirements.txt
 
-# install Playwright browser
+# install Playwright browser (needed for Eye 2)
 playwright install chromium
 
 # start the backend
@@ -344,14 +374,20 @@ uvicorn main:app --reload --port 8000
 Backend runs at: `http://localhost:8000`  
 Interactive API docs at: `http://localhost:8000/docs`
 
+### Hosted Version (Eye 2 disabled)
+
+The live API is already deployed at `https://trinetra-ai-hhl2.onrender.com`. No setup needed. Use the Swagger UI at `/docs` to scan URLs directly.
+
+> First request after inactivity may take 30-50 seconds — Render free tier spins down after 15 minutes of no traffic.
+
 ### Chrome Extension Setup
 
 1. Open Chrome and go to `chrome://extensions/`
-2. Enable **Developer mode** using the toggle in the top right
+2. Enable **Developer mode** (toggle top right)
 3. Click **Load unpacked**
 4. Select the `extension/` folder from the project
 
-The Trinetra icon appears in your Chrome toolbar. With the backend running, every page you visit is scanned automatically.
+The extension calls the live Render API by default. With the backend running locally you can switch the `API_BASE` in `extension/background.js` to `http://localhost:8000` for full Eye 2 support.
 
 ---
 
@@ -362,7 +398,7 @@ trinetra-ai/
 ├── backend/
 │   ├── main.py                  ← FastAPI server, all endpoints
 │   ├── eye1_url.py              ← URL + brand intelligence engine
-│   ├── eye2_visual.py           ← Visual screenshot comparison
+│   ├── eye2_visual.py           ← Visual screenshot comparison (local only)
 │   ├── eye3_behavior.py         ← HTML behavioral analysis
 │   ├── ml_model.py              ← XGBoost model loader + predictor
 │   ├── scorer.py                ← Hybrid weighted scoring engine
@@ -389,7 +425,9 @@ trinetra-ai/
 ├── training/
 │   └── train_model.ipynb        ← Kaggle notebook for model training
 │
-└── requirements.txt
+├── requirements.txt             ← Full local dependencies
+├── requirements-deploy.txt      ← Minimal dependencies for Render
+└── render.yaml                  ← Render deployment config
 ```
 
 ---
@@ -408,6 +446,7 @@ trinetra-ai/
 | String Similarity | jellyfish | Levenshtein + Jaro-Winkler brand similarity |
 | Typosquat Generation | dnstwist | Pre-generates all variant domains offline |
 | Chrome Extension | Manifest V3 | Real-time browser-level detection |
+| Deployment | Render | Free tier hosting, auto-deploy from GitHub |
 
 ---
 
