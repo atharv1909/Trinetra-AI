@@ -5,9 +5,8 @@
 
 **Live API:** https://trinetra-ai-hhl2.onrender.com  
 **API Docs:** https://trinetra-ai-hhl2.onrender.com/docs  
-**GitHub:** https://github.com/atharv1909/Trinetra-AI
-**GitHub:** https://github.com/atharv1909/Trinetra-AI
-**Frontend [Lovable](Live):** https://trinetra-shield-guard.lovable.app
+**GitHub:** https://github.com/atharv1909/Trinetra-AI  
+**Frontend (Live):** https://trinetra-shield-guard.lovable.app
 
 > **Note on free deployment:** Eye 2 (visual screenshot comparison) requires Playwright + Chromium (~400MB RAM). The free tier on Render only provides 512MB total, which is not enough to run Chromium alongside the ML model. Eye 2 is therefore disabled on the hosted version — visual_score defaults to 0.5 (unknown). Eye 1 (URL intelligence), Eye 3 (behavioral analysis), and the ML model all run fully on the live deployment. To use Eye 2, run the backend locally.
 
