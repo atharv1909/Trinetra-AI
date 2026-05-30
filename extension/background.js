@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://trinetra-ai-hhl2.onrender.com";
 
 // cache scanned URLs to avoid repeat calls
 const scanCache = {};
