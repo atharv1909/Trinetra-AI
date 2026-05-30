@@ -12,7 +12,15 @@ MODELS_DIR = Path(__file__).parent / "models"
 model         = joblib.load(MODELS_DIR / "xgb_model.pkl")
 feature_cols  = json.load(open(MODELS_DIR / "feature_columns.json"))
 feat_importance = json.load(open(MODELS_DIR / "feature_columns.json"))
+# lazy load SHAP — don't import at startup, saves ~100MB RAM
+_shap_explainer = None
 
+def get_explainer():
+    global _shap_explainer
+    if _shap_explainer is None:
+        import shap
+        _shap_explainer = shap.TreeExplainer(model)
+    return _shap_explainer
 print(f"[ML] Model loaded. Features: {len(feature_cols)}")
 
 
@@ -309,8 +317,7 @@ def predict(url: str, html: str = "") -> dict:
 
     # get SHAP values for explanation
     try:
-        import shap
-        explainer   = shap.TreeExplainer(model)
+        explainer   = get_explainer()
         shap_vals   = explainer.shap_values(X)[0]
         top_indices = np.argsort(np.abs(shap_vals))[::-1][:5]
         top_features = [
