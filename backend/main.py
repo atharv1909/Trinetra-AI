@@ -61,22 +61,25 @@ class ScanResponse(BaseModel):
 
 
 # ── background task: Eye 2 visual analysis ────────────────────────────
-def run_visual_analysis(scan_id: str, url: str, target_org: str | None):
-    """
-    Runs after the main scan response is returned.
-    Updates the scan record with visual score when done.
-    """
-    try:
-        from eye2_visual import analyze_visual
-        result = analyze_visual(url, target_org)
-        visual_score = result["visual_score"]
-        visual_flags = result["flags"]
-    except Exception as e:
-        print(f"[Eye2] Error: {e}")
-        visual_score = 0.5
-        visual_flags = ["VISUAL_ANALYSIS_FAILED"]
+import os
+IS_HOSTED = os.environ.get("RENDER", False)
 
-    # fetch existing scan to get current scores
+def run_visual_analysis(scan_id: str, url: str, target_org: str | None):
+    if IS_HOSTED:
+        # Eye 2 disabled on hosted version — insufficient RAM for Chromium
+        visual_score = 0.5
+        visual_flags = ["VISUAL_UNAVAILABLE_ON_HOSTED"]
+    else:
+        try:
+            from eye2_visual import analyze_visual
+            result = analyze_visual(url, target_org)
+            visual_score = result["visual_score"]
+            visual_flags = result["flags"]
+        except Exception as e:
+            print(f"[Eye2] Error: {e}")
+            visual_score = 0.5
+            visual_flags = ["VISUAL_ANALYSIS_FAILED"]
+
     scan = get_scan(scan_id)
     if not scan:
         return
@@ -89,7 +92,7 @@ def run_visual_analysis(scan_id: str, url: str, target_org: str | None):
     )
 
     update_visual(
-        scan_id     = scan_id,
+        scan_id      = scan_id,
         visual_score = visual_score,
         final_score  = updated["final_score"],
         risk_level   = updated["risk_level"],
